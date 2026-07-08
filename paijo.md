@@ -1,6 +1,6 @@
 ## 1話~10話
 1. インクリメント：変数の値を1増やす操作
-   https://github.com/ichikoji-151/paijo_words/blob/main/image/Pasted%20image%2020260702150839.png
+   (https://github.com/ichikoji-151/paijo_words/blob/main/image/Pasted%20image%2020260702150839.png)
 2. プログラマーの三大美徳：怠慢、短気、傲慢
 3. アセンブリ言語：コンピュータ(CPU)が直接理解できる機械語を人間が読み書きしやすい英単語や記号に置き換えたプログラミング言語
 4. 機械語：コンピュータの頭脳であるCPUが直接理解して実行できる、最も基本的なプログラミング言語
